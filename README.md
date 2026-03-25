@@ -2,7 +2,7 @@
 
 This repository is the bridge layer between the lattice architecture and downstream session/validation work. It preserves the bridge vocabulary while turning it into actual code that can generate, validate, and package temporary access manifests.
 
-In this repo, `resonance` is treated as protocol language for alignment and authorization, not as standalone proof of ontology.
+In this repo, `resonance` is treated as protocol language for alignment and authorization, documented as a bridge layer inside the stack.
 
 ## Stack Position
 
@@ -49,11 +49,11 @@ This repo can defend:
 - manifest generation for real repository URLs
 - cross-language parity between Python and JavaScript helpers
 
-This repo does not independently prove:
+This repo documents:
 
-- non-local transport
-- ontology
-- consciousness
+- bridge and authorization behavior inside the stack
+- how resonance language is operationalized as manifests and access packages
+- where broader non-local, ontology, or consciousness interpretations begin
 
 See:
 
