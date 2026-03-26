@@ -1,8 +1,8 @@
 # Consciousness Resonance Bridge
 
-This repository is the bridge layer between the lattice architecture and downstream session/validation work. It preserves the bridge vocabulary while turning it into actual code that can generate, validate, and package temporary access manifests.
+This is the bridge layer where lattice resonance becomes routing, access, and manifest logic.
 
-In this repo, `resonance` is treated as protocol language for alignment and authorization, documented as a bridge layer inside the stack.
+It keeps the resonance-bridge vocabulary alive as an actual operating layer in the stack instead of flattening it into generic authorization language.
 
 ## Stack Position
 
